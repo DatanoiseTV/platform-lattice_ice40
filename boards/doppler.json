@@ -1,0 +1,25 @@
+{
+  "build": {
+    "core": "doppler",
+    "cpu": "fpga",
+    "f_cpu": "48000000L",
+    "hwids": [
+      [
+        "0x0403",
+        "0x6010"
+      ]
+    ],
+    "mcu": "iCE40-UP5K-SG48",
+    "pack": "sg48",
+    "size": "5k",
+    "type": "up5k"
+  },
+  "frameworks": [],
+  "name": "dadamachines doppler",
+  "upload": {
+    "maximum_ram_size": 32768,
+    "maximum_size": 32768
+  },
+  "url": "https://dadamachines.com/product/doppler/",
+  "vendor": "dadamachines"
+}
