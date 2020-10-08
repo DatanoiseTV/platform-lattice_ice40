@@ -11,7 +11,7 @@
     ],
     "mcu": "iCE40-UP5K-SG48",
     "pack": "sg48",
-    "size": "up5k",
+    "size": "5k",
     "type": "up5k"
   },
   "frameworks": [],
