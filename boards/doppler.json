@@ -12,7 +12,7 @@
     "mcu": "iCE40-UP5K-SG48",
     "pack": "sg48",
     "size": "5k",
-    "type": "up5k"
+    "type": "up"
   },
   "frameworks": [],
   "name": "dadamachines doppler",
